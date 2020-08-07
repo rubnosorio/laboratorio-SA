@@ -1,1 +1,40 @@
-# laboratorio-SA
+# TAREA1-SA
+## Conceptos básicos de SOA, Cliente de webservice
+
+[![Build Status](https://travis-ci.org/joemccann/dillinger.svg?branch=master)](https://travis-ci.org/joemccann/dillinger)
+
+La Tarea1_SA es una aplicación de consola en python3, que consta de un menu, el cual tiene las siguientes funcionalidades.
+
+  1. Listar
+  2. Crear
+  3. Salir
+
+
+# Funcionalidades
+---
+## Listar
+Esta funcionalidad se encarga de listar y mostrar en consola, el listado de los contactos que se encuentran en api.softwareavanzado.world.
+
+![Listado de contactos](Imagenes/Listar.JPG)
+
+
+## Crear
+Esta funcion utiliza el webservice para  crea4 10 usuarios , con el siguiente formato:
+***[nombre]_[carne]\_No_[Numero de Contacto]***
+
+
+## Salir
+Funcionalidad que termina la aplicacion.
+
+# Como usar la aplicacion
+---
+### Run
+
+- Abrir la ubicacion del archivo .py   
+- Escribir los siguientes comandos
+```sh
+$ python3 Tarea1_201403703.py
+```
+- Escoger alguna de  las opciones que aparecen en el menu, presionando numeros del 1 al 3.
+
+
