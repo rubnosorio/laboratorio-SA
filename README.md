@@ -1,5 +1,5 @@
-# TAREA1-SA
-## Conceptos básicos de SOA, Cliente de webservice
+# PRACTICA2-SA
+## SOAP Y AUTENTICACION (BEARER Y SIMPLE)
 
 [![Build Status](https://travis-ci.org/joemccann/dillinger.svg?branch=master)](https://travis-ci.org/joemccann/dillinger)
 
@@ -33,7 +33,7 @@ Funcionalidad que termina la aplicacion.
 - Abrir la ubicacion del archivo .py   
 - Escribir los siguientes comandos
 ```sh
-$ python3 Tarea1_201403703.py
+$ python Practica.py
 ```
 - Escoger alguna de  las opciones que aparecen en el menu, presionando numeros del 1 al 3.
 
