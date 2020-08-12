@@ -3,7 +3,7 @@
 
 [![Build Status](https://travis-ci.org/joemccann/dillinger.svg?branch=master)](https://travis-ci.org/joemccann/dillinger)
 
-La Tarea1_SA es una aplicación de consola en python3, que consta de un menu, el cual tiene las siguientes funcionalidades.
+La Practica 2 es una aplicación de consola en python, que consta de un menu, el cual tiene las siguientes funcionalidades.
 
   1. Listar
   2. Crear
@@ -33,6 +33,8 @@ Funcionalidad que termina la aplicacion.
 - Abrir la ubicacion del archivo .py   
 - Escribir los siguientes comandos
 ```sh
+$ sudo apt install python-pip
+$ sudo pip install zeep
 $ python Practica.py
 ```
 - Escoger alguna de  las opciones que aparecen en el menu, presionando numeros del 1 al 3.
